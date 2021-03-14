@@ -45,6 +45,16 @@ added 34 packages from 4 contributors and audited 785 packages in 7.156s
 found 0 vulnerabilities
 ```
 
+## Modify lib/aws-cdk-my-rds-lambda-stack.ts
+
+## Add lambda-functions 
+```bash
+$ cd lambda-functions
+$ npm init -y
+```
+
+## Add index.ts in lambda-functions
+
 ## Useful commands
 
  * `npm run build`   compile typescript to js
